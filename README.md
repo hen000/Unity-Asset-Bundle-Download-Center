@@ -25,4 +25,5 @@ what the package should do
 https://discord.gg/RTsq5xcM
 
 
+image for reference only:
 ![image reference](reference.jpeg)
