@@ -22,8 +22,7 @@ what the package should do
 
 /* if you are interested in participating in the project, contact us through discord */
 
-https://discord.gg/RTsq5xcM
-
+https://discord.gg/3eVxHgaMqQ
 
 image for reference only:
 ![image reference](reference.jpeg)
