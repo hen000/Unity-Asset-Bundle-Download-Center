@@ -25,4 +25,4 @@ what the package should do
 https://discord.gg/RTsq5xcM
 
 
-![alt text](./images/reference.png)
+![alt text](./reference.png)
